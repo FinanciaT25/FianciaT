@@ -787,8 +787,8 @@
 
             <p>Cotización</p>
             <p>Teléfono de oficina: 5590559049</p>
-            <p>What´s App: 5645553067</p>
-            <p>GMAIL. karina.sosa@finaanciat.com</p>
+            <p>WhatsApp: 5645553067</p>
+            <p>Gmail. karina.sosa@finaanciat.com</p>
             </form>
           </section>
         </div>
